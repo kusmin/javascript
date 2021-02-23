@@ -1,0 +1,1 @@
+// evitar comentarios idiotas, comentario de linha // comentario de /* */
